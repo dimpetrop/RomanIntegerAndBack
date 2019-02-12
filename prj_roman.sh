@@ -2,7 +2,6 @@
 ########
 #
 #  The below code is distributed under the MIT license
-#  Code can found on github.com/dimpetrop (personal github) after deadline
 #
 ########
 
